@@ -1,0 +1,6 @@
+names:
+  0: table_without_border
+  1: table_with_border
+path: /content/dataset/dataset
+train: images/train
+val: images/train
